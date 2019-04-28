@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChartDemo", "LiveChartDemo.csproj", "{A609DDD4-78CC-4EF0-854E-06A2AF59EF22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A609DDD4-78CC-4EF0-854E-06A2AF59EF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A609DDD4-78CC-4EF0-854E-06A2AF59EF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A609DDD4-78CC-4EF0-854E-06A2AF59EF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A609DDD4-78CC-4EF0-854E-06A2AF59EF22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E34B1640-B1C0-4CDA-9F09-549522E7CB93}
+	EndGlobalSection
+EndGlobal
